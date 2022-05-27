@@ -1,4 +1,11 @@
-### Hi there 👋
+## 🖥️ kraack.tech 
+- Currently studying BSc Computer Science (Data Science)
+- Current progress: 2<sup>nd</sup> semester (CertHE)
+- Previous qualifications: CertHE in Social Sciences
+- Work experience: Web Developer/Design
+
+<!--
+**kris-e2u/kris-e2u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--
 **kraack-tech/kraack-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
