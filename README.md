@@ -3,6 +3,7 @@
 - Current progress: 2<sup>nd</sup> semester (CertHE)
 - Previous qualifications: CertHE in Social Sciences
 - Work experience: Web Developer/Design
+- Hobbies: Hardware, video games (mostly strategy), chess, moovies, inventing, esport.
 
 <!--
 **kris-e2u/kris-e2u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
