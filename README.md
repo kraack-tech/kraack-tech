@@ -1,7 +1,7 @@
 ## 🖥️ kraack.tech 
 - Currently studying BSc Computer Science (Data Science)
 - Current progress: 3<sup>rd</sup> semester (CertHE)
-- Previous qualifications: CertHE in Social Sciences
+- Previous qualifications: CertHE in Social Sciences (Data Science & Business Analytics)
 - Work experience: Web Developer/Design
 - Hobbies: Computer hardware, video games (mostly strategy), books (nonfiction & Sci-Fi), chess, movies, inventing, online learning, esport.
 
