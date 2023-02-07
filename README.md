@@ -5,6 +5,12 @@
 - Work experience: Web Developer/Design
 - Hobbies: Computer hardware, video games (mostly strategy), books (nonfiction & Sci-Fi), chess, movies, inventing, online learning, esport.
 
+
+![](https://github-readme-stats.vercel.app/api?username=kraack-tech&show_icons=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kraack-tech&layout=compact)
+
+
 <!--
 **kris-e2u/kris-e2u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
