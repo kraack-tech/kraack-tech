@@ -8,7 +8,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=kraack-tech&show_icons=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kraack-tech&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kraack-tech&layout=compact&show_icons=true&theme=radical)
 
 
 <!--
