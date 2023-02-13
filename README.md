@@ -8,9 +8,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=kraack-tech&show_icons=true&count_private=true&theme=tokyonight&hide=stars)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kraack-tech&layout=compact&show_icons=true&theme=tokyonight)
-
 [![](http://github-readme-streak-stats.herokuapp.com?user=kraack-tech&theme=tokyonight&mode=weekly)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kraack-tech&layout=compact&show_icons=true&theme=tokyonight)
 
 <!--
 **kris-e2u/kris-e2u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
