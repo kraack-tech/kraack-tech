@@ -32,7 +32,7 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/drupal/drupal-ar21.svg"></a></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code> 
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg"></a></code>
-<code><img height="50" src="https://www.clipartmax.com/middle/m2H7K9K9Z5b1H7Z5_anaconda-anaconda-python-logo"></a></code> 
+<code><img height="50" src="https://www.clipartmax.com/png/middle/234-2342908_anaconda-anaconda-python-logo.png"></a></code> 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 
 
