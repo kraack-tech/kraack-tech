@@ -35,7 +35,6 @@
 <code><img height="50" src="https://raw.githubusercontent.com/kraack-tech/testrepo/master/anaconda_logo.png"></a></code> 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 
-![python_ress80](https://user-images.githubusercontent.com/70644724/140609517-8fecc801-ce21-4d0c-8969-70201eb5ba63.png)
 
 <!--
 **kris-e2u/kris-e2u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
