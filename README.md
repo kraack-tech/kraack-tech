@@ -11,6 +11,12 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kraack-tech&layout=compact&show_icons=true&theme=tokyonight)
 
+# Languages
+
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+
+
 <!--
 **kris-e2u/kris-e2u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
