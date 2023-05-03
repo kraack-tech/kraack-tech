@@ -11,7 +11,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kraack-tech&layout=compact&show_icons=true&theme=tokyonight)
 
-# Languages
+### Languages
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
