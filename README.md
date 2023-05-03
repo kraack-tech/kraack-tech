@@ -32,9 +32,10 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/drupal/drupal-ar21.svg"></a></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code> 
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg"></a></code>
-<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Conda_logo.svg"></a></code> 
+<code><img height="50" src="https://raw.githubusercontent.com/kraack-tech/testrepo/master/anaconda_logo.png"></a></code> 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 
+![python_ress80](https://user-images.githubusercontent.com/70644724/140609517-8fecc801-ce21-4d0c-8969-70201eb5ba63.png)
 
 <!--
 **kris-e2u/kris-e2u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
