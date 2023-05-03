@@ -31,8 +31,8 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></a></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/drupal/drupal-ar21.svg"></a></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code> 
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg"></a></code>
-<code><img height="50" src="https://raw.githubusercontent.com/kraack-tech/testrepo/master/anaconda_logo.png"></a></code> 
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg"></a></code>
+<code><img height="40" src="https://raw.githubusercontent.com/kraack-tech/testrepo/master/anaconda_logo.png"></a></code> 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 
 
