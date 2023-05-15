@@ -3,7 +3,6 @@
 - Current progress: 4<sup>th</sup> semester (DipHE)
 - Previous qualifications: CertHE in Social Sciences (Data Science & Business Analytics)
 - Work experience: Web Developer/Design
-- Hobbies: Computer hardware, video games (mostly strategy), books (nonfiction & Sci-Fi), chess, movies, inventing, online learning, esport.
 
 ![](http://github-readme-streak-stats.herokuapp.com?user=kraack-tech&theme=tokyonight&mode=weekly)
 
