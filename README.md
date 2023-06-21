@@ -10,6 +10,10 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kraack-tech&layout=compact&show_icons=true&theme=tokyonight)
 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kraack-tech&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Github stats" />
+
+
 
 ### Languages and tools
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
