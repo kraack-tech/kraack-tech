@@ -1,8 +1,8 @@
 ## 🖥️ kraack.tech 
 - Currently studying BSc Computer Science (Data Science)
-- Current progress: 4<sup>th</sup> semester (DipHE)
+- Current progress: 5<sup>th</sup> semester (DipHE)
 - Previous qualifications: CertHE in Social Sciences (Data Science & Business Analytics)
-- Work experience: Web Developer/Design
+- Work experience: Full-stack Developer
 
 ![](http://github-readme-streak-stats.herokuapp.com?user=kraack-tech&theme=tokyonight&mode=weekly)
 
