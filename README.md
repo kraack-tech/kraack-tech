@@ -1,6 +1,6 @@
 ## 🖥️ kraack.tech 
   <p>
-    Passionate software developer with a strong mathematical background and experience in data science, backend, and full-stack development. Currently pursuing an MSc in Computer Science, I am dedicated to advancing my technical expertise and applying innovative solutions     to complex problems.
+    Passionate software developer with a strong mathematical background and experience in data science, backend, and full-stack development. Currently pursuing an MSc in Computer Science.
   </p>
 
 ![](http://github-readme-streak-stats.herokuapp.com?user=kraack-tech&theme=tokyonight&mode=weekly)
