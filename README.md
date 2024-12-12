@@ -12,29 +12,11 @@
 
 
 
-### Languages and tools
+### Languages
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></a></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></a></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></a></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-ar21.svg"></a></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></a></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-ar21.svg"></a></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></a></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/drupal/drupal-ar21.svg"></a></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code> 
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg"></a></code>
-<code><img height="40" src="https://raw.githubusercontent.com/kraack-tech/testrepo/master/anaconda_logo.png"></a></code> 
-<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
-
 
 <!--
 **kris-e2u/kris-e2u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
